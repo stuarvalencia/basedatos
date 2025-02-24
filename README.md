@@ -11,4 +11,4 @@ MF0224_3: Administración de sistemas gestores de bases de datos (200 horas)
 MF0225_3: Gestión de bases de datos (200 horas) 
 ● UF1471: Bases de datos relacionales y modelado de datos (70 horas) 
 ● UF1472: Lenguajes de definición y modificación de datos SQL (60 horas) 
-● UF1473: Salvaguarda y seguridad de los datos (70 horas)
+● UF1473: Salvaguarda y seguridad de los datos (70 horas) 5 horas
